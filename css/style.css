@@ -930,6 +930,11 @@ textarea {
 
 .trial__book-subtitle {
     text-align: center;
+    margin-bottom: 50px;
+}
+
+.trial__calendar img {
+    width: 100%;
 }
 
 .ycbm {
@@ -1694,6 +1699,10 @@ textarea {
 
     .trial__flow-number p {
         font-size: 16px;
+    }
+
+    .trial__book-subtitle {
+        margin-bottom: 30px;
     }
 
     .ycbm {
